@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,a as s}from"./app.1a1ebc8b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"search-page/02route.md"}'),o={name:"search-page/02route.md"},r=s("p",null,"asdlfjtest",-1),c=[r];function n(_,p,d,i,l,u){return t(),a("div",null,c)}const h=e(o,[["render",n]]);export{m as __pageData,h as default};

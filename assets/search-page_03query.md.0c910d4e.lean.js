@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,b as p}from"./app.1a1ebc8b.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"search-page/03query.md"}'),l={name:"search-page/03query.md"},o=p("",5),e=[o];function t(c,r,D,y,C,A){return n(),a("div",null,e)}const d=s(l,[["render",t]]);export{i as __pageData,d as default};

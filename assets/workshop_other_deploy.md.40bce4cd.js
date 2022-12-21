@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,b as s}from"./app.b38b9bf5.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"workshop/other/deploy.md"}'),r={name:"workshop/other/deploy.md"},a=s("p",null,"K8S 部屬",-1),n=[a];function c(p,d,_,l,i,h){return t(),o("div",null,n)}const u=e(r,[["render",c]]);export{f as __pageData,u as default};
