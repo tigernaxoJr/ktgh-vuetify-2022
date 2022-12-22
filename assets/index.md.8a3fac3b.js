@@ -1,1 +1,0 @@
-import{_ as t,c as o,a,b as n,o as s,r}from"./app.b38b9bf5.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"page"},"headers":[],"relativePath":"index.md"}'),c={name:"index.md"},d=n("p",null,"主頁",-1);function p(_,i,l,m,u,f){const e=r("Code");return s(),o("div",null,[d,a(e)])}const B=t(c,[["render",p]]);export{h as __pageData,B as default};
